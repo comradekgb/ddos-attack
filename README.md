@@ -2,4 +2,4 @@
 
 educational purposes only
 get the exe in 
-https://github.com/comradekgb/ddos-attack/releases
+https://github.com/comradekgb/ddos-attack/releases/tag/ddos

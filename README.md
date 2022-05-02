@@ -1,5 +1,3 @@
-# a simple ddos attacker
+- just a simple DDOS attack...
 
-educational purposes only
-get the exe in 
 https://github.com/comradekgb/ddos-attack/releases/tag/ddos
